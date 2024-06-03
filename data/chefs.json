@@ -1,0 +1,219 @@
+[
+  {
+    "chef_name": "Giada De Laurentiis",
+    "chef_image": "https://i.ibb.co/Lpg26xB/Chef-Giada-De-Laurentiis.webp",
+    "chef_quote": "I think what makes our friendship work is the fact that we are like-minded individuals, we both enjoy the same things, but our chemistry together is just perfect.",
+    "recipes": [
+      {
+        "food_name": "Bruschetta",
+        "category": "Appetizer",
+        "recipe": "Slice the bread, grill it, rub with garlic, top with chopped tomatoes, basil, and olive oil.",
+        "food_image": "bruschetta.jpg",
+        "chef_image": "giada.jpg"
+      },
+      {
+        "food_name": "Chicken Cacciatore",
+        "category": "Chicken",
+        "recipe": "Sauté chicken pieces with onions, bell peppers, and tomatoes. Add wine, broth, and herbs, simmer until chicken is cooked through.",
+        "food_image": "chicken_cacciatore.jpg",
+        "chef_image": "giada.jpg"
+      },
+      {
+        "food_name": "Eggplant Parmesan",
+        "category": "Vegetarian",
+        "recipe": "Bread and fry eggplant slices, layer with marinara sauce and mozzarella, bake until cheese is bubbly.",
+        "food_image": "eggplant_parmesan.jpg",
+        "chef_image": "giada.jpg"
+      },
+      {
+        "food_name": "Vegetable Lasagna",
+        "category": "Vegetarian",
+        "recipe": "Layer lasagna noodles with roasted vegetables, marinara sauce, and ricotta cheese. Bake until bubbly.",
+        "food_image": "vegetable_lasagna.jpg",
+        "chef_image": "giada.jpg"
+      },
+      {
+        "food_name": "Panna Cotta",
+        "category": "Dessert",
+        "recipe": "Bloom gelatin in milk, heat with cream and sugar until dissolved. Pour into molds, chill until set.",
+        "food_image": "panna_cotta.jpg",
+        "chef_image": "giada.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Mario Batali",
+    "chef_image": "https://i.ibb.co/cvjjHSh/mario-batali.jpg",
+    "chef_quote": "Food is not about impressing people. It's about making them feel comfortable.",
+    "recipes": [
+      {
+        "food_name": "Caprese Salad",
+        "category": "Appetizer",
+        "recipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves. Drizzle with balsamic glaze and olive oil.",
+        "food_image": "caprese_salad.jpg",
+        "chef_image": "mario.jpg"
+      },
+      {
+        "food_name": "Osso Buco",
+        "category": "Beef",
+        "recipe": "Braise veal shanks with onions, carrots, celery, tomatoes, and wine until tender.",
+        "food_image": "osso_buco.jpg",
+        "chef_image": "mario.jpg"
+      },
+      {
+        "food_name": "Caprese Pizza",
+        "category": "Vegetarian",
+        "recipe": "Spread pizza dough with marinara sauce, top with sliced tomatoes, fresh mozzarella, and basil leaves.",
+        "food_image": "caprese_pizza.jpg",
+        "chef_image": "mario.jpg"
+      },
+      {
+        "food_name": "Gelato",
+        "category": "Dessert",
+        "recipe": "Mix milk, cream, sugar, and flavorings. Churn in an ice cream maker until thick and creamy.",
+        "food_image": "gelato.jpg",
+        "chef_image": "mario.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Lidia Bastianich",
+    "chef_image": "https://i.ibb.co/qkLWF67/lidia-bastianich.webp",
+    "chef_quote": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "recipes": [
+      {
+        "food_name": "Arancini",
+        "category": "Appetizer",
+        "recipe": "Form cooked risotto into balls, stuff with cheese, coat with breadcrumbs, and fry until golden brown.",
+        "food_image": "arancini.jpg",
+        "chef_image": "lidia.jpg"
+      },
+      {
+        "food_name": "Chicken Florentine",
+        "category": "Chicken",
+        "recipe": "Sauté chicken breasts, top with spinach and cheese. Bake until chicken is cooked through and cheese is melted.",
+        "food_image": "chicken_florentine.jpg",
+        "chef_image": "lidia.jpg"
+      },
+      {
+        "food_name": "Cannoli",
+        "category": "Dessert",
+        "recipe": "Pipe sweetened ricotta cheese mixture into cannoli shells. Dip ends in chopped pistachios or chocolate chips.",
+        "food_image": "cannoli.jpg",
+        "chef_image": "lidia.jpg"
+      },
+      {
+        "food_name": "Zeppole",
+        "category": "Dessert",
+        "recipe": "Fry balls of dough until golden brown. Dust with powdered sugar and serve warm.",
+        "food_image": "zeppole.jpg",
+        "chef_image": "lidia.jpg"
+      },
+      {
+        "food_name": "Chicken Marsala",
+        "category": "Chicken",
+        "recipe": "Sauté chicken breasts in butter, garlic, and mushrooms. Deglaze with Marsala wine, simmer until sauce thickens.",
+        "food_image": "chicken_marsala.jpg",
+        "chef_image": "lidia_matticchio.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Massimo Bottura",
+    "chef_image": "https://i.ibb.co/GRFnjNz/Massimo-Bottura.jpg",
+    "chef_quote": "Cooking is an act of love, a gift, a way of sharing with others.",
+    "recipes": [
+      {
+        "food_name": "Prosciutto e Melone",
+        "category": "Appetizer",
+        "recipe": "Wrap thin slices of prosciutto around melon slices. Serve chilled.",
+        "food_image": "prosciutto_melone.jpg",
+        "chef_image": "massimo.jpg"
+      },
+      {
+        "food_name": "Beef Carpaccio",
+        "category": "Beef",
+        "recipe": "Thinly slice beef fillet, arrange on plate. Drizzle with olive oil, lemon juice, capers, and Parmesan shavings.",
+        "food_image": "beef_carpaccio.jpg",
+        "chef_image": "massimo.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Gennaro Contaldo",
+    "chef_image": "https://i.ibb.co/Fhc14gR/gennaro-contaldo.webp",
+    "chef_quote": "Food is about memories, traditions, and family. It's about where you come from and where you want to go.",
+    "recipes": [
+      {
+        "food_name": "Caponata",
+        "category": "Appetizer",
+        "recipe": "Sauté eggplant, celery, and onions. Add tomatoes, olives, capers, vinegar, and sugar. Simmer until thickened.",
+        "food_image": "caponata.jpg",
+        "chef_image": "gennaro.jpg"
+      },
+      {
+        "food_name": "Beef Ragu",
+        "category": "Beef",
+        "recipe": "Slow cook beef with tomatoes, onions, carrots, celery, wine, and herbs until meat is tender and sauce is thick.",
+        "food_image": "beef_ragu.jpg",
+        "chef_image": "gennaro.jpg"
+      },
+      {
+        "food_name": "Risotto ai Funghi",
+        "category": "Vegetarian",
+        "recipe": "Sauté mushrooms with onions and garlic. Stir in Arborio rice, gradually add broth, stirring until creamy.",
+        "food_image": "risotto_funghi.jpg",
+        "chef_image": "gennaro.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Carla Pellegrino",
+    "chef_quote": "Cooking is my passion, my therapy, my joy. It's how I express myself and share my love with others.",
+    "chef_image": "https://i.ibb.co/GsdyH16/carla-pellegrino.webp",
+    "recipes": [
+      {
+        "food_name": "Chicken Parmesan",
+        "category": "Chicken",
+        "recipe": "Coat chicken breasts in breadcrumbs and Parmesan. Fry until golden brown, top with marinara sauce and mozzarella, bake until cheese is bubbly.",
+        "food_image": "chicken_parmesan.jpg",
+        "chef_image": "carla.jpg"
+      },
+      {
+        "food_name": "Bistecca alla Fiorentina",
+        "category": "Beef",
+        "recipe": "Grill T-bone steak, seasoned with salt, pepper, and olive oil. Serve rare.",
+        "food_image": "bistecca_alla_fiorentina.jpg",
+        "chef_image": "carla.jpg"
+      },
+      {
+        "food_name": "Tiramisu",
+        "category": "Dessert",
+        "recipe": "Layer ladyfingers soaked in coffee and rum with mascarpone cheese mixture. Dust with cocoa powder.",
+        "food_image": "tiramisu.jpg",
+        "chef_image": "carla.jpg"
+      }
+    ]
+  },
+  {
+    "chef_name": "Marcella Hazan",
+    "chef_image": "https://i.ibb.co/jh7vW6z/marcella-hazan.jpg",
+    "chef_quote": "The most important ingredient in cooking is love. Without it, food is just fuel.",
+    "recipes": [
+      {
+        "food_name": "Chicken Piccata",
+        "category": "Chicken",
+        "recipe": "Dredge chicken breasts in flour, sauté in butter and olive oil. Add lemon juice, capers, and chicken broth, simmer until sauce thickens.",
+        "food_image": "chicken_piccata.jpg",
+        "chef_image": "marcella.jpg"
+      },
+      {
+        "food_name": "Bolognese Sauce",
+        "category": "Beef",
+        "recipe": "Sauté onions, carrots, celery, and garlic. Add ground beef, tomatoes, wine, and herbs. Simmer until thickened.",
+        "food_image": "bolognese_sauce.jpg",
+        "chef_image": "marcella.jpg"
+      }
+    ]
+  }
+]
