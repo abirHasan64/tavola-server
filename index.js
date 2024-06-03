@@ -11,6 +11,14 @@ app.get("/food", (req, res) => {
   res.send(foodData);
 });
 
+
+app.get("/food/:category", (req,res)=>{
+    const category = req.params.category;
+    const categoryItems = foodData.filter((item) => item.category === category);
+    res.send(categoryItems);
+
+});
+
 app.get("/chef", (req, res) => {
   res.send(chefData);
 });

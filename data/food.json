@@ -1,240 +1,264 @@
 [
-    {
-      "category_image": [
-        {
-          "id": "0",
-          "appetizer": "https://i.ibb.co/ySVfKtt/appetizer.jpg",
-          "chicken": "https://i.ibb.co/1z7zLNH/chicken.jpg",
-          "beef": "https://i.ibb.co/rMvxy5z/beef.jpg",
-          "vegetarian": "https://i.ibb.co/p24Zq4d/vegetarian.jpg",
-          "dessert": "https://i.ibb.co/Tvtm3zP/dessert.png"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "catagory": "Appetizer",
-      "food_details": "Bruschetta",
-      "food_complete_recipe": "Slice the bread, grill it, rub with garlic, top with chopped tomatoes, basil, and olive oil.",
-      "chef_name": "Giada De Laurentiis",
-      "food_image": "bruschetta.jpg",
-      "chef_image": "giada.jpg"
-    },
-    {
-      "id": 2,
-      "catagory": "Appetizer",
-      "food_details": "Caprese Salad",
-      "food_complete_recipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves. Drizzle with balsamic glaze and olive oil.",
-      "chef_name": "Mario Batali",
-      "food_image": "caprese_salad.jpg",
-      "chef_image": "mario.jpg"
-    },
-    {
-      "id": 3,
-      "catagory": "Appetizer",
-      "food_details": "Arancini",
-      "food_complete_recipe": "Form cooked risotto into balls, stuff with cheese, coat with breadcrumbs, and fry until golden brown.",
-      "chef_name": "Lidia Bastianich",
-      "food_image": "arancini.jpg",
-      "chef_image": "lidia.jpg"
-    },
-    {
-      "id": 4,
-      "catagory": "Appetizer",
-      "food_details": "Prosciutto e Melone",
-      "food_complete_recipe": "Wrap thin slices of prosciutto around melon slices. Serve chilled.",
-      "chef_name": "Massimo Bottura",
-      "food_image": "prosciutto_melone.jpg",
-      "chef_image": "massimo.jpg"
-    },
-    {
-      "id": 5,
-      "catagory": "Appetizer",
-      "food_details": "Caponata",
-      "food_complete_recipe": "Sauté eggplant, celery, and onions. Add tomatoes, olives, capers, vinegar, and sugar. Simmer until thickened.",
-      "chef_name": "Gennaro Contaldo",
-      "food_image": "caponata.jpg",
-      "chef_image": "gennaro.jpg"
-    },
-    {
-      "id": 6,
-      "catagory": "Chicken",
-      "food_details": "Chicken Parmesan",
-      "food_complete_recipe": "Coat chicken breasts in breadcrumbs and Parmesan. Fry until golden brown, top with marinara sauce and mozzarella, bake until cheese is bubbly.",
-      "chef_name": "Carla Pellegrino",
-      "food_image": "chicken_parmesan.jpg",
-      "chef_image": "carla.jpg"
-    },
-    {
-      "id": 7,
-      "catagory": "Chicken",
-      "food_details": "Chicken Marsala",
-      "food_complete_recipe": "Sauté chicken breasts in butter, garlic, and mushrooms. Deglaze with Marsala wine, simmer until sauce thickens.",
-      "chef_name": "Lidia Matticchio Bastianich",
-      "food_image": "chicken_marsala.jpg",
-      "chef_image": "lidia_matticchio.jpg"
-    },
-    {
-      "id": 8,
-      "catagory": "Chicken",
-      "food_details": "Chicken Piccata",
-      "food_complete_recipe": "Dredge chicken breasts in flour, sauté in butter and olive oil. Add lemon juice, capers, and chicken broth, simmer until sauce thickens.",
-      "chef_name": "Marcella Hazan",
-      "food_image": "chicken_piccata.jpg",
-      "chef_image": "marcella.jpg"
-    },
-    {
-      "id": 9,
-      "catagory": "Chicken",
-      "food_details": "Chicken Cacciatore",
-      "food_complete_recipe": "Sauté chicken pieces with onions, bell peppers, and tomatoes. Add wine, broth, and herbs, simmer until chicken is cooked through.",
-      "chef_name": "Giada De Laurentiis",
-      "food_image": "chicken_cacciatore.jpg",
-      "chef_image": "giada.jpg"
-    },
-    {
-      "id": 10,
-      "catagory": "Chicken",
-      "food_details": "Chicken Florentine",
-      "food_complete_recipe": "Sauté chicken breasts, top with spinach and cheese. Bake until chicken is cooked through and cheese is melted.",
-      "chef_name": "Lidia Bastianich",
-      "food_image": "chicken_florentine.jpg",
-      "chef_image": "lidia.jpg"
-    },
-    {
-      "id": 11,
-      "catagory": "Beef",
-      "food_details": "Osso Buco",
-      "food_complete_recipe": "Braise veal shanks with onions, carrots, celery, tomatoes, and wine until tender.",
-      "chef_name": "Mario Batali",
-      "food_image": "osso_buco.jpg",
-      "chef_image": "mario.jpg"
-    },
-    {
-      "id": 12,
-      "catagory": "Beef",
-      "food_details": "Bistecca alla Fiorentina",
-      "food_complete_recipe": "Grill T-bone steak, seasoned with salt, pepper, and olive oil. Serve rare.",
-      "chef_name": "Carla Pellegrino",
-      "food_image": "bistecca_alla_fiorentina.jpg",
-      "chef_image": "carla.jpg"
-    },
-    {
-      "id": 13,
-      "catagory": "Beef",
-      "food_details": "Beef Carpaccio",
-      "food_complete_recipe": "Thinly slice beef fillet, arrange on plate. Drizzle with olive oil, lemon juice, capers, and Parmesan shavings.",
-      "chef_name": "Massimo Bottura",
-      "food_image": "beef_carpaccio.jpg",
-      "chef_image": "massimo.jpg"
-    },
-    {
-      "id": 14,
-      "catagory": "Beef",
-      "food_details": "Bolognese Sauce",
-      "food_complete_recipe": "Sauté onions, carrots, celery, and garlic. Add ground beef, tomatoes, wine, and herbs. Simmer until thickened.",
-      "chef_name": "Marcella Hazan",
-      "food_image": "bolognese_sauce.jpg",
-      "chef_image": "marcella.jpg"
-    },
-    {
-      "id": 15,
-      "catagory": "Beef",
-      "food_details": "Beef Ragu",
-      "food_complete_recipe": "Slow cook beef with tomatoes, onions, carrots, celery, wine, and herbs until meat is tender and sauce is thick.",
-      "chef_name": "Gennaro Contaldo",
-      "food_image": "beef_ragu.jpg",
-      "chef_image": "gennaro.jpg"
-    },
-    {
-      "id": 16,
-      "catagory": "Vegetarian",
-      "food_details": "Eggplant Parmesan",
-      "food_complete_recipe": "Bread and fry eggplant slices, layer with marinara sauce and mozzarella, bake until cheese is bubbly.",
-      "chef_name": "Giada De Laurentiis",
-      "food_image": "eggplant_parmesan.jpg",
-      "chef_image": "giada.jpg"
-    },
-    {
-      "id": 17,
-      "catagory": "Vegetarian",
-      "food_details": "Pasta Primavera",
-      "food_complete_recipe": "Sauté mixed vegetables with garlic and olive oil. Toss with cooked pasta, Parmesan, and fresh herbs.",
-      "chef_name": "Lidia Bastianich",
-      "food_image": "pasta_primavera.jpg",
-      "chef_image": "lidia.jpg"
-    },
-    {
-      "id": 18,
-      "catagory": "Vegetarian",
-      "food_details": "Risotto ai Funghi",
-      "food_complete_recipe": "Sauté mushrooms with onions and garlic. Stir in Arborio rice, gradually add broth, stirring until creamy.",
-      "chef_name": "Gennaro Contaldo",
-      "food_image": "risotto_funghi.jpg",
-      "chef_image": "gennaro.jpg"
-    },
-    {
-      "id": 19,
-      "catagory": "Vegetarian",
-      "food_details": "Caprese Pizza",
-      "food_complete_recipe": "Spread pizza dough with marinara sauce, top with sliced tomatoes, fresh mozzarella, and basil leaves.",
-      "chef_name": "Mario Batali",
-      "food_image": "caprese_pizza.jpg",
-      "chef_image": "mario.jpg"
-    },
-    {
-      "id": 20,
-      "catagory": "Vegetarian",
-      "food_details": "Vegetable Lasagna",
-      "food_complete_recipe": "Layer lasagna noodles with roasted vegetables, marinara sauce, and ricotta cheese. Bake until bubbly.",
-      "chef_name": "Giada De Laurentiis",
-      "food_image": "vegetable_lasagna.jpg",
-      "chef_image": "giada.jpg"
-    },
-    {
-      "id": 21,
-      "catagory": "Dessert",
-      "food_details": "Tiramisu",
-      "food_complete_recipe": "Layer ladyfingers soaked in coffee and rum with mascarpone cheese mixture. Dust with cocoa powder.",
-      "chef_name": "Carla Pellegrino",
-      "food_image": "tiramisu.jpg",
-      "chef_image": "carla.jpg"
-    },
-    {
-      "id": 22,
-      "catagory": "Dessert",
-      "food_details": "Cannoli",
-      "food_complete_recipe": "Pipe sweetened ricotta cheese mixture into cannoli shells. Dip ends in chopped pistachios or chocolate chips.",
-      "chef_name": "Lidia Bastianich",
-      "food_image": "cannoli.jpg",
-      "chef_image": "lidia.jpg"
-    },
-    {
-      "id": 23,
-      "catagory": "Dessert",
-      "food_details": "Panna Cotta",
-      "food_complete_recipe": "Bloom gelatin in milk, heat with cream and sugar until dissolved. Pour into molds, chill until set.",
-      "chef_name": "Giada De Laurentiis",
-      "food_image": "panna_cotta.jpg",
-      "chef_image": "giada.jpg"
-    },
-    {
-      "id": 24,
-      "catagory": "Dessert",
-      "food_details": "Gelato",
-      "food_complete_recipe": "Mix milk, cream, sugar, and flavorings. Churn in an ice cream maker until thick and creamy.",
-      "chef_name": "Mario Batali",
-      "food_image": "gelato.jpg",
-      "chef_image": "mario.jpg"
-    },
-    {
-      "id": 25,
-      "catagory": "Dessert",
-      "food_details": "Zeppole",
-      "food_complete_recipe": "Fry balls of dough until golden brown. Dust with powdered sugar and serve warm.",
-      "chef_name": "Lidia Bastianich",
-      "food_image": "zeppole.jpg",
-      "chef_image": "lidia.jpg"
-    }
-  ]
-  
+  {
+    "category_image": [
+      {
+        "id": "0",
+        "appetizer": "https://i.ibb.co/ySVfKtt/appetizer.jpg",
+        "chicken": "https://i.ibb.co/1z7zLNH/chicken.jpg",
+        "beef": "https://i.ibb.co/rMvxy5z/beef.jpg",
+        "vegetarian": "https://i.ibb.co/p24Zq4d/vegetarian.jpg",
+        "dessert": "https://i.ibb.co/Tvtm3zP/dessert.png"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "category": "appetizer",
+    "food_name": "Bruschetta",
+    "food_complete_recipe": "1. Start by slicing a baguette or ciabatta bread into 1/2-inch thick slices. Lightly brush each slice with olive oil on both sides.\n2. Preheat your grill or a grill pan over medium-high heat. Grill the bread slices until they are golden and have grill marks, about 2-3 minutes per side.\n3. Once grilled, rub each slice of bread with a cut clove of garlic while still warm. This infuses the bread with a subtle garlic flavor.\n4. Prepare the tomato topping by chopping ripe tomatoes into small pieces. Remove the seeds for a less watery mixture.\n5. Place the chopped tomatoes in a bowl. Add finely chopped fresh basil leaves.\n6. Drizzle the tomato mixture with extra virgin olive oil and season with salt and pepper to taste.\n7. If desired, add a splash of balsamic vinegar for a touch of sweetness and tang.\n8. Toss the tomato mixture gently to combine all ingredients thoroughly.\n9. Spoon the tomato mixture onto each grilled bread slice, ensuring an even distribution.\n10. For an extra burst of flavor, you can sprinkle some grated Parmesan cheese or mozzarella over the top.\n11. Arrange the bruschetta on a serving platter. Garnish with additional basil leaves for a fresh and vibrant presentation.\n12. Serve the bruschetta immediately while the bread is still crisp and the topping is fresh.",
+    "chef_name": "Giada De Laurentiis",
+    "food_image": "bruschetta.jpg",
+    "chef_image": "giada.jpg",
+    "food_details": "Bruschetta is a classic Italian appetizer that epitomizes the essence of Mediterranean flavors. The dish originates from central Italy and is a popular starter in many Italian households and restaurants. The name 'bruschetta' comes from the Italian verb 'bruscare,' meaning 'to roast over coals,' which refers to the traditional method of grilling the bread. The simplicity of the ingredients allows the flavors to shine, making it a delightful and refreshing dish. The combination of crispy, garlic-infused bread with juicy tomatoes and aromatic basil creates a perfect harmony of textures and flavors. The drizzle of olive oil and optional balsamic vinegar adds a rich and tangy element that enhances the overall taste. Bruschetta is often enjoyed as an appetizer but can also be served as a light snack or part of a larger antipasto spread. Its versatility and ease of preparation make it a favorite among home cooks and professional chefs alike. Whether served at a casual gathering or a formal dinner, bruschetta is sure to impress with its vibrant and inviting presentation."
+  },
+  {
+    "id": 2,
+    "category": "appetizer",
+    "food_name": "Caprese Salad",
+    "food_complete_recipe": "1. Start by selecting ripe, juicy tomatoes. Slice them into 1/4-inch thick rounds.\n2. Choose fresh mozzarella cheese and slice it into rounds of similar thickness to the tomatoes.\n3. Arrange the tomato and mozzarella slices on a serving platter, alternating between the two to create a visually appealing pattern.\n4. Pick fresh basil leaves and tear them into smaller pieces or leave them whole, depending on your preference.\n5. Tuck the basil leaves in between the tomato and mozzarella slices, distributing them evenly.\n6. Drizzle extra virgin olive oil generously over the salad. The olive oil should be of high quality to enhance the flavors.\n7. For added flavor, drizzle a balsamic glaze or aged balsamic vinegar over the top. This provides a sweet and tangy contrast to the creamy cheese and juicy tomatoes.\n8. Season the salad with salt and freshly ground black pepper to taste.\n9. If desired, sprinkle a pinch of dried oregano or a few capers for an extra layer of flavor.\n10. Let the salad sit for a few minutes before serving to allow the flavors to meld together.\n11. Serve the Caprese Salad as a refreshing appetizer or a light side dish. It pairs wonderfully with crusty bread or grilled meats.\n12. Enjoy this classic Italian salad that celebrates the simplicity and freshness of its ingredients.",
+    "chef_name": "Mario Batali",
+    "food_image": "caprese_salad.jpg",
+    "chef_image": "mario.jpg",
+    "food_details": "Caprese Salad is a quintessential Italian dish that embodies the essence of Mediterranean cuisine. Named after the island of Capri, this salad is known for its vibrant colors that mimic the Italian flag: red, white, and green. The simplicity of Caprese Salad is what makes it so special. The key to a perfect Caprese Salad lies in the quality of its ingredients. Using ripe, flavorful tomatoes, fresh mozzarella, and aromatic basil leaves ensures a delicious result. The combination of these ingredients creates a harmonious balance of flavors and textures. The tomatoes provide juiciness and sweetness, the mozzarella adds creaminess, and the basil contributes a fresh, herbal note. Drizzling the salad with high-quality olive oil enhances the flavors, while a touch of balsamic glaze adds a sweet and tangy contrast. Caprese Salad is typically served as an appetizer but can also be enjoyed as a light main course or a side dish. Its simplicity and elegance make it a favorite choice for summer meals and gatherings. This salad is a true celebration of fresh, seasonal ingredients and a testament to the beauty of Italian cuisine."
+  },
+  {
+    "id": 3,
+    "category": "appetizer",
+    "food_name": "Arancini",
+    "food_complete_recipe": "1. Begin by preparing the risotto. Cook Arborio rice according to the package instructions, adding finely chopped onions and garlic for flavor.\n2. Once the risotto is cooked and cooled, stir in grated Parmesan cheese and chopped fresh parsley.\n3. Cut mozzarella cheese into small cubes, about 1/2 inch in size.\n4. With wet hands, take a small amount of risotto and flatten it in your palm. Place a cube of mozzarella in the center.\n5. Enclose the mozzarella with the risotto, forming a ball around it. Make sure the cheese is completely covered.\n6. Roll the risotto ball in flour, shaking off any excess.\n7. Dip the floured ball into beaten eggs, ensuring it is fully coated.\n8. Roll the egg-coated ball in breadcrumbs, pressing gently to adhere.\n9. Repeat the process with the remaining risotto and mozzarella cubes.\n10. Heat vegetable oil in a deep fryer or large pot to 350°F (175°C).\n11. Fry the arancini in batches, turning occasionally, until golden brown and crispy, about 4-5 minutes.\n12. Drain the arancini on paper towels to remove excess oil. Serve hot, garnished with fresh parsley and marinara sauce for dipping.",
+    "chef_name": "Lidia Bastianich",
+    "food_image": "arancini.jpg",
+    "chef_image": "lidia.jpg",
+    "food_details": "Arancini are a beloved Sicilian street food that showcases the island's rich culinary tradition. These golden-fried rice balls are named after the Italian word for 'little oranges,' due to their round shape and color. Arancini are typically filled with mozzarella cheese, but variations exist with ragu, peas, or ham. The key to perfect arancini is achieving a crispy exterior while maintaining a creamy, cheesy center. Using leftover risotto is a great way to make this dish, as the rice is already flavorful and sticky. Frying at the right temperature ensures the arancini cook evenly and stay intact. These delightful bites are often served as appetizers but can also be enjoyed as a main course or snack. Arancini are a testament to Italian cuisine's ability to transform simple ingredients into culinary masterpieces. Their combination of textures and flavors makes them a favorite among both children and adults. Whether enjoyed at a street market or a formal dinner, arancini offer a taste of Sicily's rich culinary heritage."
+  },
+  {
+    "id": 4,
+    "category": "appetizer",
+    "food_name": "Prosciutto e Melone",
+    "food_complete_recipe": "1. Begin by selecting a ripe cantaloupe or honeydew melon. The melon should be fragrant and give slightly to pressure.\n2. Cut the melon in half and scoop out the seeds. Using a melon baller or a sharp knife, cut the melon into bite-sized pieces or thin slices.\n3. Take thin slices of prosciutto, ensuring they are not too thick, as prosciutto is best enjoyed when delicate.\n4. Wrap each melon piece with a slice of prosciutto, making sure the prosciutto sticks to itself to hold the melon securely.\n5. Arrange the wrapped melon pieces on a serving platter, creating an appealing presentation.\n6. For added flavor, you can drizzle the melon and prosciutto with a light balsamic glaze or a few drops of aged balsamic vinegar.\n7. Sprinkle freshly ground black pepper over the top to enhance the flavors.\n8. Garnish the platter with fresh basil leaves or mint for a touch of color and freshness.\n9. Serve Prosciutto e Melone immediately as an appetizer or part of an antipasto spread.\n10. Pair with a chilled white wine or Prosecco to complement the sweet and salty flavors.\n11. Enjoy this classic Italian appetizer that combines the sweetness of melon with the savory richness of prosciutto.\n12. For a twist, you can also add a few shavings of Parmesan cheese or a drizzle of honey for extra indulgence.",
+    "chef_name": "Massimo Bottura",
+    "food_image": "prosciutto_melone.jpg",
+    "chef_image": "massimo.jpg",
+    "food_details": "Prosciutto e Melone is a classic Italian appetizer that perfectly balances sweet and savory flavors. This dish is a staple of Italian cuisine, particularly popular during the summer months when melons are at their peak ripeness. The combination of juicy, sweet melon and the delicate, salty prosciutto creates a harmonious blend of flavors that is both refreshing and satisfying. This appetizer is not only delicious but also incredibly easy to prepare, making it a favorite for entertaining guests. The key to a perfect Prosciutto e Melone is using high-quality ingredients: ripe, flavorful melon and thinly sliced, melt-in-your-mouth prosciutto. The dish is often garnished with fresh herbs like basil or mint, which add a touch of color and an extra layer of freshness. Drizzling a bit of balsamic glaze or honey can enhance the overall flavor profile, adding a sweet and tangy contrast. Prosciutto e Melone is traditionally served as an appetizer but can also be enjoyed as a light snack or part of a larger antipasto platter. Its simplicity and elegance make it a timeless dish that highlights the beauty of Italian culinary traditions. Whether served at a casual picnic or a formal dinner, Prosciutto e Melone is sure to impress with its delightful combination of textures and flavors."
+  },
+  {
+    "id": 5,
+    "category": "appetizer",
+    "food_name": "Caponata",
+    "food_complete_recipe": "1. Start by prepping the vegetables. Dice the eggplant into 1/2-inch cubes, chop the celery, and finely dice the onions.\n2. In a large skillet, heat olive oil over medium-high heat. Add the eggplant and cook until golden brown, about 5-7 minutes. Remove the eggplant and set aside.\n3. In the same skillet, add more olive oil if needed and sauté the celery and onions until they are soft and translucent, about 5 minutes.\n4. Add minced garlic to the skillet and cook for another 1-2 minutes until fragrant.\n5. Stir in chopped tomatoes, green olives, and capers. Cook for a few minutes until the tomatoes start to break down.\n6. Return the eggplant to the skillet and mix well with the other vegetables.\n7. Add red wine vinegar and sugar to the skillet, stirring to combine. This creates the sweet and sour flavor typical of caponata.\n8. Season the mixture with salt and pepper to taste. Simmer the caponata over low heat for about 20-30 minutes, allowing the flavors to meld together.\n9. Adjust the seasoning with additional vinegar, sugar, salt, or pepper if needed.\n10. For a deeper flavor, you can add a few tablespoons of tomato paste.\n11. Let the caponata cool to room temperature. The flavors will continue to develop as it sits.\n12. Serve the caponata at room temperature or chilled, garnished with fresh basil or parsley. It pairs well with crusty bread or can be used as a topping for grilled meats or fish.",
+    "chef_name": "Gennaro Contaldo",
+    "food_image": "caponata.jpg",
+    "chef_image": "gennaro.jpg",
+    "food_details": "Caponata is a traditional Sicilian dish that exemplifies the island's rich culinary heritage. This sweet and sour vegetable stew is typically made with eggplant, celery, onions, tomatoes, olives, and capers. The addition of vinegar and sugar gives caponata its distinctive sweet and tangy flavor. Caponata is incredibly versatile and can be served as an appetizer, side dish, or even a main course. It's often enjoyed at room temperature, making it a perfect dish for warm weather. The key to a great caponata is allowing the flavors to meld together, which can be achieved by letting it sit for a few hours or overnight. This dish showcases the Mediterranean tradition of combining fresh, seasonal vegetables with bold, contrasting flavors. Caponata is a celebration of Sicily's diverse culinary influences, from Arab to Spanish, and is a testament to the island's ability to create complex and delicious dishes from simple ingredients. Whether served with crusty bread, as a topping for bruschetta, or alongside grilled meats, caponata is a flavorful and satisfying dish that brings a taste of Sicily to any table."
+  },
+  {
+    "id": 6,
+    "category": "chicken",
+    "food_name": "Chicken Parmesan",
+    "food_complete_recipe": "1. Begin by preparing the chicken breasts. Pound them to an even thickness of about 1/2 inch to ensure even cooking.\n2. Season the chicken breasts with salt and pepper on both sides.\n3. Set up a breading station with three shallow bowls: one with flour, one with beaten eggs, and one with a mixture of breadcrumbs and grated Parmesan cheese.\n4. Dredge each chicken breast in flour, shaking off any excess.\n5. Dip the floured chicken breasts into the beaten eggs, ensuring they are fully coated.\n6. Press the egg-coated chicken breasts into the breadcrumb mixture, making sure they are evenly coated.\n7. In a large skillet, heat olive oil over medium-high heat. Add the breaded chicken breasts and cook until golden brown on both sides, about 3-4 minutes per side.\n8. Transfer the chicken breasts to a baking dish. Top each one with marinara sauce, spreading it evenly.\n9. Place slices of mozzarella cheese over the marinara sauce, ensuring the chicken is fully covered.\n10. Sprinkle additional grated Parmesan cheese over the top for extra flavor.\n11. Preheat your oven to 375°F (190°C) and bake the chicken Parmesan for about 20-25 minutes, until the cheese is melted and bubbly and the chicken is cooked through.\n12. Garnish with fresh basil or parsley before serving. Enjoy Chicken Parmesan with pasta, a green salad, or garlic bread.",
+    "chef_name": "Carla Pellegrino",
+    "food_image": "chicken_parmesan.jpg",
+    "chef_image": "carla.jpg",
+    "food_details": "Chicken Parmesan, or 'Chicken Parmigiana,' is a popular Italian-American dish that combines crispy breaded chicken with marinara sauce and melted cheese. This dish is a comforting and hearty meal that is loved by many. The process of breading and frying the chicken creates a crispy exterior that contrasts beautifully with the tender, juicy meat inside. Topping the chicken with marinara sauce and mozzarella cheese adds layers of flavor and texture. The dish is then baked until the cheese is melted and bubbly, creating a deliciously satisfying meal. Chicken Parmesan is often served over pasta, but it can also be enjoyed with a side salad or garlic bread. The combination of flavors and textures makes this dish a favorite for family dinners and gatherings. Its origins are rooted in Italian cuisine, but it has become a beloved staple in many households around the world. The key to a perfect Chicken Parmesan lies in using fresh ingredients and taking the time to properly bread and fry the chicken. This dish is a testament to the comforting and indulgent nature of Italian-American cuisine."
+  },
+  {
+    "id": 7,
+    "category": "chicken",
+    "food_name": "Chicken Marsala",
+    "food_complete_recipe": "1. Start by seasoning the chicken breasts with salt and pepper. Dredge them in flour, shaking off any excess.\n2. In a large skillet, heat olive oil over medium-high heat. Add the chicken breasts and cook until golden brown on both sides, about 4-5 minutes per side.\n3. Remove the chicken from the skillet and set aside. In the same skillet, add more olive oil if needed and sauté sliced mushrooms until they release their moisture and begin to brown.\n4. Add minced garlic to the skillet and cook for another 1-2 minutes until fragrant.\n5. Pour Marsala wine into the skillet, using a wooden spoon to scrape up any browned bits from the bottom.\n6. Add chicken broth to the skillet and bring the mixture to a simmer.\n7. Return the chicken breasts to the skillet, spooning some of the sauce and mushrooms over them.\n8. Let the chicken simmer in the sauce until it is cooked through and the sauce has thickened, about 10-15 minutes.\n9. Adjust the seasoning with additional salt and pepper, if needed.\n10. For a richer sauce, you can stir in a small amount of cream or butter.\n11. Garnish with chopped fresh parsley before serving. Enjoy Chicken Marsala with pasta, mashed potatoes, or crusty bread.\n12. Serve the dish hot, ensuring the sauce is evenly distributed over the chicken and mushrooms.",
+    "chef_name": "Lidia Matticchio Bastianich",
+    "food_image": "chicken_marsala.jpg",
+    "chef_image": "lidia_matticchio.jpg",
+    "food_details": "Chicken Marsala is a classic Italian-American dish that features tender chicken breasts cooked in a rich and flavorful Marsala wine sauce. The dish is named after Marsala, a fortified wine from Sicily, which is the key ingredient in the sauce. The combination of Marsala wine, mushrooms, and garlic creates a savory and aromatic sauce that perfectly complements the chicken. Chicken Marsala is known for its deep, earthy flavors and elegant presentation. The dish is relatively simple to prepare, making it a popular choice for both weeknight dinners and special occasions. The process of dredging the chicken in flour and sautéing it in olive oil ensures a crispy exterior, while simmering it in the Marsala sauce keeps the meat tender and juicy. The addition of mushrooms adds a rich, umami flavor that enhances the overall taste of the dish. Chicken Marsala is typically served over pasta, mashed potatoes, or alongside crusty bread to soak up the delicious sauce. This dish is a perfect example of Italian-American cuisine, blending traditional Italian ingredients with American culinary techniques to create a comforting and satisfying meal. Whether enjoyed at a family dinner or a dinner party, Chicken Marsala is sure to impress with its robust flavors and classic appeal."
+  },
+  {
+    "id": 8,
+    "category": "chicken",
+    "food_name": "Chicken Cacciatore",
+    "food_complete_recipe": "1. Start by seasoning the chicken pieces with salt and pepper. Dredge them lightly in flour, shaking off any excess.\n2. In a large Dutch oven or heavy-bottomed pot, heat olive oil over medium-high heat. Add the chicken pieces and brown them on all sides, about 5-7 minutes per side. Remove the chicken and set aside.\n3. In the same pot, add more olive oil if needed and sauté chopped onions, bell peppers, and carrots until they begin to soften, about 5 minutes.\n4. Add minced garlic and sliced mushrooms to the pot and cook for another 2-3 minutes until fragrant.\n5. Stir in crushed tomatoes, tomato paste, and a splash of red wine. Scrape up any browned bits from the bottom of the pot to incorporate into the sauce.\n6. Add fresh or dried herbs such as thyme, oregano, and bay leaves. Season the sauce with salt and pepper to taste.\n7. Return the browned chicken pieces to the pot, nestling them into the sauce.\n8. Bring the mixture to a simmer, then reduce the heat to low. Cover the pot and let the chicken simmer in the sauce for about 45-60 minutes, until it is tender and cooked through.\n9. Stir in chopped fresh basil and parsley for added freshness and flavor.\n10. Adjust the seasoning with additional salt and pepper if needed.\n11. Serve Chicken Cacciatore hot, garnished with additional fresh herbs. Enjoy with pasta, polenta, or crusty bread to soak up the rich sauce.\n12. This dish can be made ahead and reheated, as the flavors continue to develop and improve over time.",
+    "chef_name": "Giuliano Hazan",
+    "food_image": "chicken_cacciatore.jpg",
+    "chef_image": "giuliano.jpg",
+    "food_details": "Chicken Cacciatore, also known as 'Hunter's Chicken,' is a rustic and hearty Italian dish that features chicken cooked in a savory tomato-based sauce with vegetables and herbs. The name 'cacciatore' means 'hunter' in Italian, and the dish is traditionally made with ingredients that a hunter might have on hand, such as onions, tomatoes, mushrooms, and herbs. The key to a great Chicken Cacciatore is slow-cooking the chicken until it is tender and infused with the rich flavors of the sauce. This dish is perfect for a comforting and satisfying meal, especially during cooler months. The combination of chicken, vegetables, and aromatic herbs creates a delicious and nutritious dish that is both filling and flavorful. Chicken Cacciatore is typically served with pasta, polenta, or crusty bread to soak up the delicious sauce. The versatility of this dish allows for variations, such as adding olives, capers, or different types of mushrooms, to suit personal preferences. Chicken Cacciatore is a beloved classic in Italian cuisine, offering a taste of the countryside and a comforting meal that brings people together around the table. Whether prepared for a family dinner or a special occasion, this dish is sure to impress with its robust flavors and inviting aroma."
+  },
+  {
+    "id": 9,
+    "category": "chicken",
+    "food_name": "Chicken Piccata",
+    "food_complete_recipe": "1. Start by slicing chicken breasts in half horizontally to create thinner cutlets. Season them with salt and pepper.\n2. Dredge the chicken cutlets in flour, shaking off any excess.\n3. In a large skillet, heat olive oil over medium-high heat. Add the chicken cutlets and cook until golden brown on both sides, about 3-4 minutes per side. Remove the chicken from the skillet and set aside.\n4. In the same skillet, add more olive oil if needed and sauté minced garlic until fragrant, about 1 minute.\n5. Pour in chicken broth and white wine, using a wooden spoon to scrape up any browned bits from the bottom of the skillet.\n6. Stir in fresh lemon juice and capers, bringing the mixture to a simmer.\n7. Return the chicken cutlets to the skillet, spooning some of the sauce over them.\n8. Let the chicken simmer in the sauce for a few minutes until it is cooked through and the sauce has thickened slightly.\n9. Adjust the seasoning with additional salt and pepper, if needed.\n10. For a richer sauce, you can stir in a small amount of butter or cream.\n11. Garnish with chopped fresh parsley and lemon slices before serving. Enjoy Chicken Piccata with pasta, rice, or a green salad.\n12. Serve the dish hot, ensuring the sauce is evenly distributed over the chicken and capers.",
+    "chef_name": "Marcella Hazan",
+    "food_image": "chicken_piccata.jpg",
+    "chef_image": "marcella.jpg",
+    "food_details": "Chicken Piccata is a classic Italian-American dish that features tender chicken cutlets cooked in a tangy and flavorful lemon-caper sauce. The word 'piccata' refers to a method of preparing meat, typically by slicing, seasoning, and sautéing it, then serving it with a sauce made from the pan drippings, lemon, and capers. This dish is known for its bright and zesty flavors, which are balanced by the richness of the chicken and the briny capers. Chicken Piccata is relatively quick and easy to prepare, making it a popular choice for weeknight dinners. The key to a great Chicken Piccata is using fresh lemon juice and high-quality capers to create a vibrant and aromatic sauce. The addition of white wine and chicken broth adds depth to the sauce, while a touch of butter or cream can make it even more indulgent. Chicken Piccata is typically served over pasta, rice, or alongside a fresh green salad. Its simplicity and elegance make it a favorite in many households, offering a delicious and satisfying meal that can be prepared in under 30 minutes. Whether enjoyed on a busy weeknight or as part of a special dinner, Chicken Piccata is sure to impress with its delightful combination of flavors and textures."
+  },
+  {
+    "id": 10,
+    "category": "chicken",
+    "food_name": "Chicken Alfredo",
+    "food_complete_recipe": "1. Start by seasoning chicken breasts with salt and pepper. Cook them in a skillet over medium-high heat until golden brown and cooked through, about 6-7 minutes per side. Remove the chicken from the skillet and set aside.\n2. In the same skillet, add minced garlic and sauté until fragrant, about 1 minute.\n3. Pour in heavy cream and bring to a simmer. Let the cream reduce slightly, about 5 minutes.\n4. Stir in grated Parmesan cheese, allowing it to melt and create a smooth sauce.\n5. Slice the cooked chicken breasts and return them to the skillet, coating them with the Alfredo sauce.\n6. Cook pasta according to package instructions until al dente. Reserve some pasta water before draining.\n7. Add the cooked pasta to the skillet with the chicken and Alfredo sauce, tossing to combine. Add reserved pasta water as needed to achieve the desired sauce consistency.\n8. Season the dish with additional salt and pepper, if needed.\n9. Garnish with chopped fresh parsley and more grated Parmesan cheese before serving.\n10. Enjoy Chicken Alfredo hot, served with a side of garlic bread or a green salad.\n11. For added flavor, you can incorporate ingredients like spinach, mushrooms, or sun-dried tomatoes into the sauce.\n12. Serve immediately to enjoy the creamy and indulgent flavors of this classic dish.",
+    "chef_name": "Pino Luongo",
+    "food_image": "chicken_alfredo.jpg",
+    "chef_image": "pino.jpg",
+    "food_details": "Chicken Alfredo is a rich and indulgent Italian-American dish that features tender chicken and pasta coated in a creamy Alfredo sauce. This dish is known for its comforting and luxurious flavors, making it a favorite for many. The key to a great Chicken Alfredo lies in the sauce, which is made with heavy cream, Parmesan cheese, and garlic. The creaminess of the sauce perfectly complements the tender chicken and al dente pasta, creating a harmonious blend of flavors and textures. Chicken Alfredo is a versatile dish that can be customized with additional ingredients such as spinach, mushrooms, or sun-dried tomatoes for added depth and complexity. The simplicity of the ingredients and the quick cooking time make Chicken Alfredo a popular choice for weeknight dinners and special occasions alike. This dish is often served with garlic bread or a fresh green salad to balance out the richness of the sauce. Whether enjoyed as a comforting family meal or a decadent treat, Chicken Alfredo is sure to satisfy with its creamy, savory goodness."
+  },
+  {
+    "id": 11,
+    "category": "beef",
+    "food_name": "Osso Buco",
+    "food_complete_recipe": "1. Begin by seasoning veal shanks with salt and pepper. Dredge them in flour, shaking off any excess.\n2. In a large Dutch oven, heat olive oil over medium-high heat. Add the veal shanks and brown them on all sides, about 5-7 minutes per side. Remove the shanks and set aside.\n3. In the same pot, add more olive oil if needed and sauté chopped onions, carrots, and celery until softened, about 5-7 minutes.\n4. Add minced garlic and cook for another minute until fragrant.\n5. Pour in white wine and deglaze the pot, scraping up any browned bits from the bottom.\n6. Stir in crushed tomatoes, tomato paste, and beef broth.\n7. Add fresh herbs such as thyme, rosemary, and bay leaves. Season with salt and pepper.\n8. Return the browned veal shanks to the pot, nestling them into the sauce.\n9. Bring the mixture to a simmer, then cover the pot and transfer to a preheated oven at 325°F (165°C).\n10. Braise the veal shanks for 2-3 hours, until the meat is tender and falls off the bone.\n11. Check the pot occasionally, adding more broth if needed to keep the shanks partially submerged.\n12. For the gremolata, combine chopped parsley, lemon zest, and minced garlic. Sprinkle over the Osso Buco before serving. Enjoy with risotto, polenta, or crusty bread.",
+    "chef_name": "Mario Batali",
+    "food_image": "osso_buco.jpg",
+    "chef_image": "mario.jpg",
+    "food_details": "Osso Buco is a traditional Italian dish that originates from the Lombardy region. The name 'Osso Buco' means 'bone with a hole,' referring to the marrow-filled veal shank bone. This dish is known for its rich and hearty flavors, achieved through the slow braising of veal shanks in a flavorful tomato-based sauce. The key to a great Osso Buco is the long cooking time, which allows the meat to become incredibly tender and the marrow to infuse the sauce with a deep, rich flavor. The addition of a gremolata—an aromatic mixture of lemon zest, garlic, and parsley—brightens up the dish and adds a fresh contrast to the savory sauce. Osso Buco is typically served with risotto alla Milanese, polenta, or crusty bread to soak up the delicious sauce. This dish is a perfect example of Italian comfort food, offering a satisfying and elegant meal that is perfect for special occasions or a cozy dinner at home. Whether enjoyed in a rustic trattoria or at a family dinner, Osso Buco is sure to impress with its robust flavors and tender, succulent meat."
+  },
+  {
+    "id": 12,
+    "category": "beef",
+    "food_name": "Bistecca alla Fiorentina",
+    "food_complete_recipe": "1. Begin by choosing a high-quality T-bone steak, preferably from Chianina cattle for authenticity.\n2. Season the steak generously with coarse sea salt and freshly ground black pepper.\n3. Allow the steak to come to room temperature before cooking to ensure even cooking.\n4. Preheat your grill to high heat, ensuring it is very hot before adding the steak.\n5. Brush the steak with a little olive oil to prevent sticking and enhance flavor.\n6. Place the steak on the grill and cook for about 5-7 minutes per side for medium-rare, or longer if desired.\n7. Use a meat thermometer to check the internal temperature, aiming for 130-135°F (54-57°C) for medium-rare.\n8. Once cooked to your liking, remove the steak from the grill and let it rest for at least 5 minutes to allow the juices to redistribute.\n9. While the steak rests, drizzle it with a little more olive oil and a squeeze of fresh lemon juice for added flavor.\n10. Serve the Bistecca alla Fiorentina on a large platter, garnished with fresh rosemary sprigs.\n11. Slice the steak against the grain and serve with roasted potatoes or a simple green salad.\n12. Enjoy this iconic Tuscan dish with a glass of Chianti wine for the ultimate Italian dining experience.",
+    "chef_name": "Carla Pellegrino",
+    "food_image": "bistecca_alla_fiorentina.jpg",
+    "chef_image": "carla.jpg",
+    "food_details": "Bistecca alla Fiorentina, or Florentine steak, is a renowned Italian dish that hails from the Tuscany region. This dish features a large T-bone steak, typically from Chianina cattle, which is known for its tenderness and rich flavor. The steak is simply seasoned with salt, pepper, and olive oil, allowing the quality of the meat to shine. The key to a perfect Bistecca alla Fiorentina is achieving a beautiful char on the outside while keeping the inside juicy and tender. The steak is traditionally cooked over high heat, often on a wood-fired grill, to impart a smoky flavor. After grilling, the steak is drizzled with olive oil and a squeeze of lemon juice, enhancing its natural flavors. Bistecca alla Fiorentina is typically served rare to medium-rare, allowing the full flavor and texture of the meat to be enjoyed. This dish is a celebration of simplicity and quality, showcasing the best of Italian culinary traditions. Whether served at a rustic trattoria or enjoyed at home, Bistecca alla Fiorentina is sure to impress with its bold flavors and satisfying taste."
+  },
+  {
+    "id": 13,
+    "category": "beef",
+    "food_name": "Beef Carpaccio",
+    "food_complete_recipe": "1. Start by selecting a high-quality beef fillet, preferably grass-fed for the best flavor.\n2. Wrap the beef fillet tightly in plastic wrap and place it in the freezer for about 30-40 minutes until it is firm but not frozen solid.\n3. Using a sharp knife, thinly slice the beef into very thin slices. If needed, you can use a meat slicer for even thinner slices.\n4. Arrange the beef slices on a chilled platter, slightly overlapping each piece.\n5. Drizzle the beef with high-quality extra virgin olive oil, ensuring each slice is lightly coated.\n6. Squeeze fresh lemon juice over the beef for a bright, tangy flavor.\n7. Season with sea salt and freshly ground black pepper to taste.\n8. Sprinkle the beef with capers for a burst of briny flavor.\n9. Shave Parmesan cheese over the top of the beef for a rich, salty contrast.\n10. Garnish with fresh arugula leaves or microgreens for a touch of freshness and color.\n11. Serve the Beef Carpaccio immediately as an elegant appetizer or light main course.\n12. Enjoy this dish with crusty bread and a glass of crisp white wine for a complete dining experience.",
+    "chef_name": "Massimo Bottura",
+    "food_image": "beef_carpaccio.jpg",
+    "chef_image": "massimo.jpg",
+    "food_details": "Beef Carpaccio is a classic Italian dish that showcases the natural flavors and tenderness of raw beef fillet. This dish is known for its elegant presentation and simple yet sophisticated taste. The key to a great Beef Carpaccio is using the highest quality beef, as the raw meat's flavor and texture are the stars of the dish. Freezing the beef fillet slightly makes it easier to slice thinly, which is essential for the delicate texture of Carpaccio. The dish is typically seasoned with olive oil, lemon juice, capers, and Parmesan cheese, creating a harmonious balance of flavors. The bright acidity of the lemon juice and the briny capers complement the rich, buttery beef, while the shaved Parmesan adds a savory depth. Fresh arugula or microgreens provide a refreshing contrast and a pop of color. Beef Carpaccio is often served as an appetizer, offering a light and refined start to a meal. Its simplicity and elegance make it a popular choice for special occasions and fine dining. Whether enjoyed at a high-end restaurant or prepared at home, Beef Carpaccio is sure to impress with its exquisite taste and presentation."
+  },
+  {
+    "id": 14,
+    "category": "beef",
+    "food_name": "Bolognese Sauce",
+    "food_complete_recipe": "1. Start by heating olive oil in a large pot over medium heat. Add finely chopped onions, carrots, and celery, and sauté until softened, about 10 minutes.\n2. Add minced garlic and cook for another minute until fragrant.\n3. Increase the heat to high and add ground beef and pork to the pot. Cook, breaking up the meat with a spoon, until browned and cooked through.\n4. Pour in white wine and let it simmer until mostly evaporated, about 5 minutes.\n5. Stir in tomato paste and cook for 2-3 minutes to develop its flavor.\n6. Add crushed tomatoes, beef broth, and a splash of milk or cream to the pot.\n7. Season with salt, pepper, and a pinch of nutmeg for added depth of flavor.\n8. Reduce the heat to low and let the sauce simmer gently for 2-3 hours, stirring occasionally.\n9. During the last 30 minutes of cooking, stir in chopped fresh basil and parsley for added freshness.\n10. Taste the sauce and adjust the seasoning as needed.\n11. Cook pasta in salted boiling water until al dente. Reserve a cup of pasta water.\n12. Drain the pasta and add it to the Bolognese sauce. Toss well to coat, adding reserved pasta water if needed to loosen the sauce.\n13. Serve the Bolognese sauce over the pasta, garnished with grated Parmesan cheese and a sprig of fresh basil.",
+    "chef_name": "Marcella Hazan",
+    "food_image": "bolognese_sauce.jpg",
+    "chef_image": "marcella.jpg",
+    "food_details": "Bolognese Sauce, known as ragù alla bolognese in Italian, is a rich and hearty meat-based sauce originating from Bologna, Italy. This sauce is beloved worldwide for its depth of flavor and versatility in Italian cuisine. The key to a delicious Bolognese sauce lies in the slow cooking process, which allows the flavors of the meat and vegetables to meld together perfectly. Typically made with a combination of ground beef and pork, the sauce is enriched with tomatoes, wine, and a touch of dairy—usually milk or cream—to create a creamy texture. Fresh herbs such as basil and parsley add brightness and complexity to the sauce. Bolognese sauce is traditionally served with tagliatelle pasta in Italy, although it pairs well with other pasta shapes like fettuccine or rigatoni. It's often finished with a generous grating of Parmesan cheese on top. This sauce is a staple in Italian-American cooking and is perfect for feeding a crowd or freezing for later use. Whether enjoyed on a cozy family dinner or served at a festive gathering, Bolognese sauce brings comfort and satisfaction with every bite."
+  },
+  {
+    "id": 15,
+    "category": "beef",
+    "food_name": "Beef Ragu",
+    "food_complete_recipe": "1. Start by heating olive oil in a large Dutch oven over medium heat.\n2. Add diced onions, carrots, and celery to the pot. Sauté until softened, about 8-10 minutes.\n3. Add minced garlic and cook for another minute until fragrant.\n4. Increase the heat to high and add ground beef, breaking it up with a wooden spoon. Cook until browned and no longer pink.\n5. Pour in red wine and cook until most of the liquid has evaporated, about 5-7 minutes.\n6. Stir in tomato paste and cook for 2-3 minutes to enhance its flavor.\n7. Add crushed tomatoes, beef broth, bay leaves, and fresh thyme sprigs to the pot.\n8. Season with salt and pepper to taste.\n9. Bring the mixture to a simmer, then reduce the heat to low and cover the pot.\n10. Let the Beef Ragu simmer gently for 2-3 hours, stirring occasionally, until the meat is tender and the sauce is thickened.\n11. Towards the end of cooking, taste and adjust the seasoning as needed.\n12. Serve the Beef Ragu over cooked pasta, such as pappardelle or rigatoni, garnished with freshly grated Parmesan cheese and chopped parsley.",
+    "chef_name": "Gennaro Contaldo",
+    "food_image": "beef_ragu.jpg",
+    "chef_image": "gennaro.jpg",
+    "food_details": "Beef Ragu is a hearty Italian meat sauce that is slow-cooked to perfection, making it a favorite comfort food in Italian cuisine. This dish typically features tender ground beef simmered in a rich tomato-based sauce with aromatic vegetables and herbs. The key to a flavorful Beef Ragu lies in the slow cooking process, allowing the meat to become tender and absorb the savory flavors of the sauce. The addition of red wine adds depth and complexity, while tomato paste enhances the sauce's richness. Fresh herbs such as thyme and bay leaves impart aromatic notes, balancing the robust flavors of the beef. Beef Ragu is versatile and pairs well with a variety of pasta shapes, from wide pappardelle to sturdy rigatoni, allowing the sauce to cling to every bite. It is often finished with a generous sprinkling of freshly grated Parmesan cheese and chopped parsley for added freshness. Whether enjoyed on a chilly evening or served at a festive gathering, Beef Ragu promises to satisfy with its comforting flavors and rustic charm."
+  },
+  {
+    "id": 16,
+    "category": "vegetarian",
+    "food_name": "Eggplant Parmesan",
+    "food_complete_recipe": "1. Begin by slicing eggplant into 1/4-inch rounds. Sprinkle the rounds generously with salt and let them sit for about 30 minutes to draw out excess moisture.\n2. Rinse the eggplant slices under cold water and pat them dry with paper towels.\n3. Preheat your oven to 375°F (190°C). Lightly grease a baking sheet with olive oil.\n4. Dredge each eggplant slice in flour, dip in beaten eggs, and coat with breadcrumbs seasoned with salt, pepper, and dried Italian herbs.\n5. Arrange the breaded eggplant slices in a single layer on the prepared baking sheet.\n6. Drizzle olive oil over the eggplant slices or spray them lightly with cooking spray.\n7. Bake the eggplant slices in the preheated oven for about 20-25 minutes, flipping halfway through, until golden brown and crispy.\n8. Meanwhile, spread a thin layer of marinara sauce on the bottom of a baking dish.\n9. Once the eggplant slices are done baking, remove them from the oven and increase the oven temperature to 400°F (200°C).\n10. Layer half of the baked eggplant slices over the marinara sauce in the baking dish.\n11. Spoon more marinara sauce over the eggplant slices and sprinkle with shredded mozzarella and grated Parmesan cheeses.\n12. Repeat the layers with the remaining eggplant slices, marinara sauce, and cheeses.\n13. Bake the Eggplant Parmesan in the hot oven for about 20 minutes, until the cheese is melted and bubbly.\n14. Remove from the oven and let it cool slightly before serving. Garnish with fresh basil leaves and enjoy!",
+    "chef_name": "Giada De Laurentiis",
+    "food_image": "eggplant_parmesan.jpg",
+    "chef_image": "giada.jpg",
+    "food_details": "Eggplant Parmesan, or Melanzane alla Parmigiana in Italian, is a classic Italian dish that celebrates the flavors of eggplant, marinara sauce, and melted cheese. This vegetarian delight is hearty and satisfying, making it a popular choice in Italian-American cuisine. The key to a delicious Eggplant Parmesan lies in properly preparing the eggplant to achieve a crispy texture while ensuring it remains tender. Salting the eggplant slices helps draw out excess moisture, preventing them from becoming soggy during baking. Coating the eggplant in a breadcrumb mixture seasoned with Italian herbs adds crunch and flavor. Layering the baked eggplant slices with marinara sauce and a blend of mozzarella and Parmesan cheeses creates a gooey, cheesy topping that melts beautifully in the oven. Fresh basil leaves add a burst of freshness and aromatic notes to the dish. Eggplant Parmesan is typically served as a main course, accompanied by pasta or a fresh green salad. It's a comforting dish that appeals to vegetarians and meat-eaters alike, offering a satisfying meal that is perfect for family dinners or special occasions."
+  },
+  {
+    "id": 17,
+    "category": "vegetarian",
+    "food_name": "Pasta Primavera",
+    "food_complete_recipe": "1. Start by bringing a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente.\n2. While the pasta cooks, heat olive oil in a large skillet over medium heat.\n3. Add thinly sliced garlic and sauté for 1 minute until fragrant.\n4. Add a selection of thinly sliced vegetables such as bell peppers, zucchini, cherry tomatoes, and broccoli florets to the skillet.\n5. Sauté the vegetables for 5-7 minutes until they are tender-crisp and lightly browned.\n6. Season the vegetables with salt, pepper, and a pinch of red pepper flakes for a hint of heat.\n7. Drain the cooked pasta, reserving a cup of pasta water.\n8. Add the drained pasta to the skillet with the sautéed vegetables.\n9. Toss the pasta and vegetables together, adding a splash of pasta water to create a light sauce that coats the pasta evenly.\n10. Stir in a generous handful of fresh basil leaves and chopped parsley for added freshness.\n11. Finish with a squeeze of fresh lemon juice and a drizzle of extra virgin olive oil.\n12. Taste and adjust the seasoning if needed, adding more salt and pepper as desired.\n13. Serve the Pasta Primavera immediately, garnished with grated Parmesan cheese and additional fresh herbs if desired.",
+    "chef_name": "Lidia Bastianich",
+    "food_image": "pasta_primavera.jpg",
+    "chef_image": "lidia.jpg",
+    "food_details": "Pasta Primavera is a vibrant and colorful Italian dish that celebrates the flavors of fresh seasonal vegetables. The name 'Primavera' means 'spring' in Italian, reflecting the dish's use of springtime produce. This vegetarian pasta dish is light yet satisfying, making it a popular choice for spring and summer meals. The key to a delicious Pasta Primavera lies in using a variety of fresh vegetables, such as bell peppers, zucchini, cherry tomatoes, and broccoli florets, which are sautéed until tender-crisp. Thinly sliced garlic adds aromatic depth to the dish, while red pepper flakes provide a hint of heat. The pasta is cooked until al dente and tossed with the sautéed vegetables, creating a colorful and flavorful combination. Fresh herbs like basil and parsley add brightness and freshness to the dish, while a squeeze of lemon juice enhances the flavors. A drizzle of extra virgin olive oil and grated Parmesan cheese complete the dish, adding richness and depth of flavor. Pasta Primavera is versatile and can be customized with your favorite vegetables or herbs, making it a delightful choice for a quick and delicious meal."
+  },
+  {
+    "id": 18,
+    "category": "vegetarian",
+    "food_name": "Caprese Salad",
+    "food_complete_recipe": "1. Start by selecting ripe, juicy tomatoes and fresh mozzarella cheese.\n2. Slice the tomatoes and mozzarella into 1/4-inch thick slices.\n3. Arrange the tomato and mozzarella slices on a serving platter, alternating them for a visually appealing presentation.\n4. Tuck fresh basil leaves between the tomato and mozzarella slices.\n5. Drizzle extra virgin olive oil over the salad, ensuring each slice is lightly coated.\n6. Season with salt and freshly ground black pepper to taste.\n7. Optionally, sprinkle with a pinch of dried oregano for added flavor.\n8. For a balsamic glaze, simmer balsamic vinegar over medium heat until it thickens and reduces by half. Drizzle over the Caprese salad.\n9. Serve the Caprese Salad immediately as a refreshing appetizer or side dish.\n10. Enjoy the vibrant flavors of ripe tomatoes, creamy mozzarella, and fresh basil in every bite!",
+    "chef_name": "Giorgio Locatelli",
+    "food_image": "caprese_salad.jpg",
+    "chef_image": "giorgio.jpg",
+    "food_details": "Caprese Salad is a classic Italian dish that celebrates the flavors of ripe tomatoes, fresh mozzarella cheese, and basil. Originating from the Campania region of Italy, this salad is simple yet elegant, showcasing the quality of its ingredients. The key to a delicious Caprese Salad lies in using ripe, juicy tomatoes and creamy mozzarella cheese. The tomatoes and mozzarella are sliced into rounds and arranged alternately on a platter, creating a visually appealing pattern. Fresh basil leaves are tucked between the tomato and mozzarella slices, adding a fragrant herbal note. The salad is drizzled with extra virgin olive oil, which enhances the flavors of the tomatoes and mozzarella. Seasoned with salt and pepper, the Caprese Salad is light and refreshing, making it an ideal appetizer or side dish. For added depth of flavor, a balsamic glaze can be drizzled over the salad, adding a sweet and tangy contrast. Caprese Salad is perfect for showcasing summer tomatoes and is often served as part of an antipasto platter or enjoyed on its own. Its simplicity and vibrant flavors make it a favorite in Italian cuisine, offering a taste of Mediterranean freshness in every bite."
+  },
+  {
+    "id": 19,
+    "category": "vegetarian",
+    "food_name": "Minestrone Soup",
+    "food_complete_recipe": "1. Begin by heating olive oil in a large pot over medium heat.\n2. Add finely chopped onions, carrots, and celery to the pot. Sauté until softened, about 5-7 minutes.\n3. Add minced garlic and cook for another minute until fragrant.\n4. Stir in diced tomatoes, tomato paste, and vegetable broth.\n5. Bring the mixture to a boil, then reduce the heat to low and let it simmer for about 20 minutes.\n6. Add diced potatoes, zucchini, green beans, and cannellini beans to the pot.\n7. Season with salt, pepper, dried oregano, and basil.\n8. Continue to simmer the soup for another 20-25 minutes, until the vegetables are tender.\n9. Stir in chopped spinach or kale during the last few minutes of cooking.\n10. Taste and adjust the seasoning as needed.\n11. Cook small pasta separately according to package instructions until al dente.\n12. Drain the pasta and add it to the Minestrone soup, stirring to combine.\n13. Serve the Minestrone soup hot, garnished with grated Parmesan cheese and a drizzle of extra virgin olive oil.",
+    "chef_name": "Antonio Carluccio",
+    "food_image": "minestrone_soup.jpg",
+    "chef_image": "antonio.jpg",
+    "food_details": "Minestrone Soup is a hearty and comforting Italian soup that features a medley of seasonal vegetables, beans, and pasta in a flavorful broth. This soup is known for its versatility and nutritious ingredients, making it a popular choice in Italian homes and restaurants alike. The key to a delicious Minestrone Soup lies in the variety of vegetables used, which can include onions, carrots, celery, potatoes, zucchini, green beans, and leafy greens such as spinach or kale. These vegetables are simmered in a tomato-based broth flavored with garlic, herbs, and vegetable broth. Cannellini beans are often added to provide protein and texture to the soup. Small pasta shapes like ditalini or elbow macaroni are cooked separately and added to the soup, creating a satisfying and filling meal. Minestrone Soup is typically garnished with grated Parmesan cheese and a drizzle of extra virgin olive oil, adding richness and depth of flavor. This soup is perfect for chilly days and can be customized with your favorite vegetables and herbs. Whether served as a starter or a main course, Minestrone Soup offers a taste of Italian comfort and warmth in every spoonful."
+  },
+  {
+    "id": 20,
+    "category": "vegetarian",
+    "food_name": "Bruschetta",
+    "food_complete_recipe": "1. Start by slicing a baguette or rustic Italian bread into 1/2-inch thick slices.\n2. Arrange the bread slices in a single layer on a baking sheet.\n3. Drizzle olive oil over each bread slice and season with a pinch of salt.\n4. Toast the bread slices in the oven under the broiler for 1-2 minutes, until they are golden brown and crisp.\n5. Remove the toasted bread from the oven and let it cool slightly.\n6. In a small bowl, combine diced tomatoes, minced garlic, chopped fresh basil, and a drizzle of extra virgin olive oil.\n7. Season the tomato mixture with salt and freshly ground black pepper to taste.\n8. Spoon the tomato mixture generously over each toasted bread slice.\n9. Optionally, you can add a sprinkle of balsamic vinegar or a drizzle of balsamic glaze for added flavor.\n10. Garnish the Bruschetta with additional fresh basil leaves.\n11. Serve immediately as an appetizer or a light snack, and enjoy the burst of Mediterranean flavors!",
+    "chef_name": "Jamie Oliver",
+    "food_image": "bruschetta.jpg",
+    "chef_image": "jamie.jpg",
+    "food_details": "Bruschetta is a classic Italian appetizer that highlights the simplicity and freshness of Mediterranean ingredients. Originating from central Italy, this dish features toasted bread slices topped with a flavorful mixture of diced tomatoes, garlic, basil, and olive oil. The key to a delicious Bruschetta lies in using ripe, juicy tomatoes and high-quality extra virgin olive oil, which enhance the dish's flavors. The bread slices are toasted until golden brown and crisp, providing a crunchy base for the tomato topping. Fresh basil adds a fragrant herbal note, while minced garlic brings a hint of pungency. Seasoned with salt and pepper, Bruschetta can be customized with additional ingredients such as balsamic vinegar or balsamic glaze for added depth of flavor. This appetizer is perfect for serving at gatherings or as a light snack, offering a burst of Mediterranean flavors in every bite. Bruschetta is versatile and can be adapted with different toppings, making it a delightful addition to any meal."
+  },
+  {
+    "id": 21,
+    "category": "dessert",
+    "food_name": "Tiramisu",
+    "food_complete_recipe": "1. Begin by preparing the coffee mixture. Mix freshly brewed espresso or strong coffee with rum or coffee liqueur in a shallow dish.\n2. In a separate mixing bowl, combine mascarpone cheese, sugar, and vanilla extract. Beat until smooth and creamy.\n3. In another bowl, whip heavy cream until stiff peaks form.\n4. Gently fold the whipped cream into the mascarpone mixture until well combined and smooth.\n5. Dip ladyfinger biscuits into the coffee mixture briefly, ensuring they are soaked but not overly saturated.\n6. Arrange a layer of soaked ladyfingers in the bottom of a serving dish or individual dessert glasses.\n7. Spread half of the mascarpone mixture evenly over the layer of ladyfingers.\n8. Dust the mascarpone layer with cocoa powder using a fine mesh sieve.\n9. Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture.\n10. Dust the top layer of mascarpone with cocoa powder.\n11. Cover the Tiramisu with plastic wrap and refrigerate for at least 4 hours or overnight to allow the flavors to meld.\n12. Before serving, garnish with chocolate shavings or additional cocoa powder if desired.\n13. Serve chilled and enjoy the creamy, indulgent layers of Tiramisu!",
+    "chef_name": "Carla Pellegrino",
+    "food_image": "tiramisu.jpg",
+    "chef_image": "carla.jpg",
+    "food_details": "Tiramisu is a classic Italian dessert known for its rich layers of coffee-soaked ladyfingers and creamy mascarpone cheese mixture. Originating from the Veneto region of Italy, Tiramisu translates to 'pick me up,' reflecting its invigorating combination of flavors and textures. The key to a delicious Tiramisu lies in using quality ingredients and achieving the perfect balance of coffee, mascarpone, and cocoa. Freshly brewed espresso or strong coffee is mixed with rum or coffee liqueur to create the coffee mixture that soaks the ladyfingers. The ladyfingers are briefly dipped into the coffee mixture, ensuring they absorb the flavors without becoming soggy. Mascarpone cheese, sugar, and vanilla extract are whipped together until smooth and creamy, creating a luscious filling. Heavy cream is whipped separately and folded into the mascarpone mixture, adding lightness and volume. The assembled layers of soaked ladyfingers and mascarpone mixture are dusted with cocoa powder, which enhances the dessert's chocolatey flavor. Tiramisu is chilled for several hours or overnight to allow the flavors to meld and the texture to set. Before serving, the dessert is garnished with chocolate shavings or additional cocoa powder for visual appeal. Tiramisu is beloved for its creamy texture, delicate coffee flavor, and hint of sweetness, making it a favorite finale to any Italian meal."
+  },
+  {
+    "id": 22,
+    "category": "dessert",
+    "food_name": "Cannoli",
+    "food_complete_recipe": "1. Begin by making the cannoli dough. In a mixing bowl, combine flour, sugar, cocoa powder, and a pinch of salt.\n2. Cut in cold butter until the mixture resembles coarse crumbs.\n3. Add egg yolk, white wine vinegar, and water. Mix until the dough comes together.\n4. Knead the dough on a lightly floured surface until smooth and elastic.\n5. Wrap the dough in plastic wrap and refrigerate for 30 minutes.\n6. In the meantime, prepare the cannoli filling. In a bowl, combine ricotta cheese, powdered sugar, vanilla extract, and a pinch of cinnamon.\n7. Mix until smooth and creamy. Optionally, fold in chocolate chips or candied fruit for added texture.\n8. Roll out the chilled dough on a floured surface until thin.\n9. Cut the dough into circles using a cookie cutter or glass.\n10. Wrap each circle of dough around a metal cannoli tube, sealing the edges with water.\n11. Heat vegetable oil in a deep fryer or heavy-bottomed pot to 350°F (175°C).\n12. Fry the cannoli shells until golden brown and crisp, about 2-3 minutes.\n13. Remove the shells from the oil and drain on paper towels.\n14. Once cooled, gently slide the shells off the metal tubes.\n15. Fill each cannoli shell with the prepared ricotta filling using a piping bag.\n16. Dust the cannoli with powdered sugar and garnish with chopped pistachios or chocolate chips.\n17. Serve the cannoli immediately to enjoy the crispy shell and creamy filling.",
+    "chef_name": "Lidia Bastianich",
+    "food_image": "cannoli.jpg",
+    "chef_image": "lidia.jpg",
+    "food_details": "Cannoli is a beloved Italian dessert originating from Sicily, known for its crispy shell and creamy ricotta cheese filling. The name 'cannoli' means 'little tubes,' referring to the pastry's tubular shape. The key to a delicious Cannoli lies in achieving a perfect balance of textures and flavors. The cannoli dough is made with flour, sugar, cocoa powder, and butter, resulting in a crispy and flaky shell when fried. The dough is rolled thin and wrapped around metal cannoli tubes before frying until golden brown and crisp. Ricotta cheese, powdered sugar, vanilla extract, and a hint of cinnamon are combined to create a creamy and sweet filling. Optional additions such as chocolate chips or candied fruit can be folded into the ricotta mixture for added texture and flavor. Once the cannoli shells are fried and cooled, they are filled with the ricotta filling using a piping bag, ensuring each cannolo is generously filled. Before serving, the cannoli are dusted with powdered sugar and garnished with chopped pistachios or chocolate chips for visual appeal. Cannoli are traditionally served fresh and enjoyed immediately to preserve the crispy shell and creamy filling. This classic Italian dessert is a favorite for celebrations and gatherings, offering a delightful combination of textures and flavors in every bite."
+  },
+  {
+    "id": 23,
+    "category": "dessert",
+    "food_name": "Panna Cotta",
+    "food_complete_recipe": "1. Start by blooming gelatin in cold milk in a small bowl.\n2. In a saucepan, combine heavy cream, sugar, and a split vanilla bean over medium heat.\n3. Stir until the sugar dissolves and the mixture is steaming but not boiling.\n4. Remove from heat and whisk in the bloomed gelatin until completely dissolved.\n5. Strain the mixture through a fine mesh sieve to remove the vanilla bean.\n6. Pour the mixture into individual molds or serving glasses.\n7. Refrigerate the Panna Cotta for at least 4 hours or until set.\n8. In the meantime, prepare the berry sauce. Combine fresh berries, sugar, and a squeeze of lemon juice in a saucepan.\n9. Cook over medium heat until the berries break down and release their juices.\n10. Remove from heat and let the sauce cool slightly.\n11. Once the Panna Cotta is set, unmold it by dipping the molds briefly in warm water and inverting onto serving plates.\n12. Spoon the berry sauce over the Panna Cotta.\n13. Garnish with fresh berries and mint leaves.\n14. Serve chilled and enjoy the silky smooth texture of Panna Cotta with the vibrant berry sauce!",
+    "chef_name": "Giada De Laurentiis",
+    "food_image": "panna_cotta.jpg",
+    "chef_image": "giada.jpg",
+    "food_details": "Panna Cotta is a classic Italian dessert known for its silky smooth texture and creamy flavor. Originating from the Piedmont region of Italy, Panna Cotta translates to 'cooked cream,' reflecting its simple yet elegant preparation. The key to a delicious Panna Cotta lies in using quality ingredients and achieving the perfect balance of flavors and textures. Heavy cream, sugar, and a split vanilla bean are heated until steaming, then combined with bloomed gelatin to create a smooth and creamy mixture. The gelatin sets the dessert, giving it a firm yet delicate consistency. After straining to remove the vanilla bean, the Panna Cotta mixture is poured into molds or serving glasses and refrigerated until fully set. Meanwhile, a berry sauce made from fresh berries, sugar, and lemon juice is prepared on the stovetop, enhancing the dessert with a burst of fruity flavor. Once the Panna Cotta is set, it is unmolded and served chilled, topped with the vibrant berry sauce. Garnished with fresh berries and mint leaves, Panna Cotta offers a delightful contrast of creamy texture and fruity sweetness in every spoonful. This dessert is perfect for entertaining or special occasions, impressing guests with its luxurious taste and elegant presentation."
+  },
+  {
+    "id": 24,
+    "category": "dessert",
+    "food_name": "Gelato",
+    "food_complete_recipe": "1. Start by preparing the gelato base. In a saucepan, combine whole milk, heavy cream, and sugar.\n2. Heat the mixture over medium heat, stirring occasionally, until it reaches a simmer.\n3. In a separate bowl, whisk together egg yolks until smooth and pale.\n4. Gradually pour the hot milk mixture into the egg yolks, whisking constantly to temper the eggs.\n5. Return the mixture to the saucepan and cook over low heat, stirring constantly, until it thickens enough to coat the back of a spoon.\n6. Remove from heat and strain the custard through a fine mesh sieve into a clean bowl.\n7. Stir in vanilla extract or other flavorings like cocoa powder, coffee, or fruit puree if desired.\n8. Cover the bowl with plastic wrap, pressing it directly onto the surface of the custard to prevent a skin from forming.\n9. Chill the custard in the refrigerator for at least 4 hours or overnight until thoroughly chilled.\n10. Once chilled, churn the custard in an ice cream maker according to the manufacturer's instructions.\n11. Churn until the gelato reaches a soft, creamy consistency.\n12. Transfer the churned gelato to an airtight container and freeze for at least 2 hours to firm up.\n13. Before serving, allow the gelato to soften slightly at room temperature for easier scooping.\n14. Serve the gelato in bowls or cones, optionally garnished with fresh fruit, chocolate shavings, or a drizzle of syrup.\n15. Enjoy the smooth, creamy texture and rich flavor of homemade gelato!",
+    "chef_name": "Mario Batali",
+    "food_image": "gelato.jpg",
+    "chef_image": "mario.jpg",
+    "food_details": "Gelato is a traditional Italian frozen dessert known for its dense, creamy texture and intense flavor. Originating in Italy, gelato differs from ice cream by having a lower butterfat content and a denser consistency. The key to making authentic gelato lies in the quality of ingredients and the careful preparation of the base. Whole milk and heavy cream are heated with sugar until the mixture simmers, creating a rich and sweet base. Egg yolks are whisked separately and tempered with the hot milk mixture to create a custard base, which is then cooked until it thickens enough to coat the back of a spoon. This custard is strained to remove any solids, ensuring a smooth texture. Flavorings such as vanilla extract, cocoa powder, coffee, or fruit puree can be added to the custard base for different variations of gelato. Once the custard is chilled, it is churned in an ice cream maker to incorporate air and achieve a creamy consistency. After churning, the gelato is transferred to a container and frozen until firm. Before serving, gelato is allowed to soften slightly at room temperature to enhance its creamy texture. Garnishes such as fresh fruit, chocolate shavings, or syrup can be added to complement the gelato's flavor. Gelato is enjoyed throughout Italy and around the world for its luxurious mouthfeel and robust flavor profiles, making it a beloved dessert choice for any occasion."
+  },
+  {
+    "id": 25,
+    "category": "dessert",
+    "food_name": "Zeppole",
+    "food_complete_recipe": "1. Begin by preparing the dough for the zeppole. In a saucepan, combine water, butter, sugar, and salt. Bring to a boil over medium heat.\n2. Once boiling, remove the pan from heat and quickly stir in flour until a smooth dough forms.\n3. Return the pan to low heat and cook the dough, stirring constantly, for about 1-2 minutes to slightly dry out the dough.\n4. Remove the dough from heat and let it cool for a few minutes.\n5. Transfer the dough to a mixing bowl and beat in eggs one at a time, ensuring each egg is fully incorporated before adding the next.\n6. Continue beating until the dough is smooth and glossy.\n7. Heat vegetable oil in a deep fryer or heavy-bottomed pot to 375°F (190°C).\n8. Drop spoonfuls of dough into the hot oil, frying until golden brown and puffed, about 3-4 minutes.\n9. Use a slotted spoon to remove the zeppole from the oil and drain them on paper towels.\n10. Once cooled slightly, dust the zeppole with powdered sugar.\n11. Serve the zeppole warm, optionally with a side of chocolate sauce or raspberry jam for dipping.\n12. Enjoy the crispy exterior and light, fluffy interior of these delicious Italian pastries!",
+    "chef_name": "Lidia Bastianich",
+    "food_image": "zeppole.jpg",
+    "chef_image": "lidia.jpg",
+    "food_details": "Zeppole are traditional Italian pastries known for their light, airy texture and crispy exterior. Originating from Naples, Italy, zeppole are typically enjoyed as a sweet treat during festivals and celebrations, especially on Saint Joseph's Day. The key to making delicious zeppole lies in creating a light and airy dough that puffs up beautifully when fried. The dough is prepared by boiling water with butter, sugar, and salt, then quickly mixing in flour until a smooth dough forms. Cooking the dough briefly over low heat helps to dry it out slightly before incorporating eggs, which adds richness and helps create a smooth, glossy dough. Once the dough is mixed and smooth, spoonfuls are dropped into hot vegetable oil and fried until golden brown and puffed. Zeppole are then drained on paper towels to remove excess oil before being dusted generously with powdered sugar. This dusting of sugar adds sweetness and contrasts with the crispy exterior of the zeppole. Optionally, zeppole can be served with a side of chocolate sauce or raspberry jam for dipping, enhancing their flavor profile. These delightful pastries are best enjoyed warm, straight from the fryer, to fully appreciate their crispy exterior and light, fluffy interior. Zeppole are a beloved dessert across Italy and are often made at home for special occasions, bringing joy with every bite."
+  }
+]
