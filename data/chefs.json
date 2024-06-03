@@ -2,7 +2,7 @@
   {
     "chef_name": "Giada De Laurentiis",
     "chef_image": "https://i.ibb.co/Lpg26xB/Chef-Giada-De-Laurentiis.webp",
-    "chef_quote": "I think what makes our friendship work is the fact that we are like-minded individuals, we both enjoy the same things, but our chemistry together is just perfect.",
+    "tricks": "Prioritize fresh, quality ingredients and elegant, simple presentations.",
     "recipes": [
       {
         "food_name": "Bruschetta",
@@ -44,7 +44,7 @@
   {
     "chef_name": "Mario Batali",
     "chef_image": "https://i.ibb.co/cvjjHSh/mario-batali.jpg",
-    "chef_quote": "Food is not about impressing people. It's about making them feel comfortable.",
+    "tricks": "Layer flavors with seasonal produce and experiment with textures for depth.",
     "recipes": [
       {
         "food_name": "Caprese Salad",
@@ -79,7 +79,7 @@
   {
     "chef_name": "Lidia Bastianich",
     "chef_image": "https://i.ibb.co/qkLWF67/lidia-bastianich.webp",
-    "chef_quote": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "tricks": "Master homemade pasta, embrace slow cooking, and enrich dishes with garlic and olive oil.",
     "recipes": [
       {
         "food_name": "Arancini",
@@ -121,7 +121,7 @@
   {
     "chef_name": "Massimo Bottura",
     "chef_image": "https://i.ibb.co/GRFnjNz/Massimo-Bottura.jpg",
-    "chef_quote": "Cooking is an act of love, a gift, a way of sharing with others.",
+    "tricks": "Elevate dishes with thoughtful plating, daring flavor combinations, and creative reinterpretations.",
     "recipes": [
       {
         "food_name": "Prosciutto e Melone",
@@ -142,7 +142,7 @@
   {
     "chef_name": "Gennaro Contaldo",
     "chef_image": "https://i.ibb.co/Fhc14gR/gennaro-contaldo.webp",
-    "chef_quote": "Food is about memories, traditions, and family. It's about where you come from and where you want to go.",
+    "tricks": "Balance flavors harmoniously, use fresh herbs liberally, and savor the cooking process.",
     "recipes": [
       {
         "food_name": "Caponata",
@@ -169,7 +169,7 @@
   },
   {
     "chef_name": "Carla Pellegrino",
-    "chef_quote": "Cooking is my passion, my therapy, my joy. It's how I express myself and share my love with others.",
+    "tricks": "Infuse recipes with family traditions, season meticulously, and cook with patience and care.",
     "chef_image": "https://i.ibb.co/GsdyH16/carla-pellegrino.webp",
     "recipes": [
       {
@@ -198,7 +198,7 @@
   {
     "chef_name": "Marcella Hazan",
     "chef_image": "https://i.ibb.co/jh7vW6z/marcella-hazan.jpg",
-    "chef_quote": "The most important ingredient in cooking is love. Without it, food is just fuel.",
+    "tricks": "Simplify with high-quality ingredients, combine butter and olive oil, and adjust seasoning attentively.",
     "recipes": [
       {
         "food_name": "Chicken Piccata",
