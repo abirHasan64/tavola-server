@@ -1,0 +1,240 @@
+[
+    {
+      "category_image": [
+        {
+          "id": "0",
+          "appetizer": "https://i.ibb.co/ySVfKtt/appetizer.jpg",
+          "chicken": "https://i.ibb.co/1z7zLNH/chicken.jpg",
+          "beef": "https://i.ibb.co/rMvxy5z/beef.jpg",
+          "vegetarian": "https://i.ibb.co/p24Zq4d/vegetarian.jpg",
+          "dessert": "https://i.ibb.co/Tvtm3zP/dessert.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "catagory": "Appetizer",
+      "food_details": "Bruschetta",
+      "food_complete_recipe": "Slice the bread, grill it, rub with garlic, top with chopped tomatoes, basil, and olive oil.",
+      "chef_name": "Giada De Laurentiis",
+      "food_image": "bruschetta.jpg",
+      "chef_image": "giada.jpg"
+    },
+    {
+      "id": 2,
+      "catagory": "Appetizer",
+      "food_details": "Caprese Salad",
+      "food_complete_recipe": "Layer sliced tomatoes, fresh mozzarella, and basil leaves. Drizzle with balsamic glaze and olive oil.",
+      "chef_name": "Mario Batali",
+      "food_image": "caprese_salad.jpg",
+      "chef_image": "mario.jpg"
+    },
+    {
+      "id": 3,
+      "catagory": "Appetizer",
+      "food_details": "Arancini",
+      "food_complete_recipe": "Form cooked risotto into balls, stuff with cheese, coat with breadcrumbs, and fry until golden brown.",
+      "chef_name": "Lidia Bastianich",
+      "food_image": "arancini.jpg",
+      "chef_image": "lidia.jpg"
+    },
+    {
+      "id": 4,
+      "catagory": "Appetizer",
+      "food_details": "Prosciutto e Melone",
+      "food_complete_recipe": "Wrap thin slices of prosciutto around melon slices. Serve chilled.",
+      "chef_name": "Massimo Bottura",
+      "food_image": "prosciutto_melone.jpg",
+      "chef_image": "massimo.jpg"
+    },
+    {
+      "id": 5,
+      "catagory": "Appetizer",
+      "food_details": "Caponata",
+      "food_complete_recipe": "Sauté eggplant, celery, and onions. Add tomatoes, olives, capers, vinegar, and sugar. Simmer until thickened.",
+      "chef_name": "Gennaro Contaldo",
+      "food_image": "caponata.jpg",
+      "chef_image": "gennaro.jpg"
+    },
+    {
+      "id": 6,
+      "catagory": "Chicken",
+      "food_details": "Chicken Parmesan",
+      "food_complete_recipe": "Coat chicken breasts in breadcrumbs and Parmesan. Fry until golden brown, top with marinara sauce and mozzarella, bake until cheese is bubbly.",
+      "chef_name": "Carla Pellegrino",
+      "food_image": "chicken_parmesan.jpg",
+      "chef_image": "carla.jpg"
+    },
+    {
+      "id": 7,
+      "catagory": "Chicken",
+      "food_details": "Chicken Marsala",
+      "food_complete_recipe": "Sauté chicken breasts in butter, garlic, and mushrooms. Deglaze with Marsala wine, simmer until sauce thickens.",
+      "chef_name": "Lidia Matticchio Bastianich",
+      "food_image": "chicken_marsala.jpg",
+      "chef_image": "lidia_matticchio.jpg"
+    },
+    {
+      "id": 8,
+      "catagory": "Chicken",
+      "food_details": "Chicken Piccata",
+      "food_complete_recipe": "Dredge chicken breasts in flour, sauté in butter and olive oil. Add lemon juice, capers, and chicken broth, simmer until sauce thickens.",
+      "chef_name": "Marcella Hazan",
+      "food_image": "chicken_piccata.jpg",
+      "chef_image": "marcella.jpg"
+    },
+    {
+      "id": 9,
+      "catagory": "Chicken",
+      "food_details": "Chicken Cacciatore",
+      "food_complete_recipe": "Sauté chicken pieces with onions, bell peppers, and tomatoes. Add wine, broth, and herbs, simmer until chicken is cooked through.",
+      "chef_name": "Giada De Laurentiis",
+      "food_image": "chicken_cacciatore.jpg",
+      "chef_image": "giada.jpg"
+    },
+    {
+      "id": 10,
+      "catagory": "Chicken",
+      "food_details": "Chicken Florentine",
+      "food_complete_recipe": "Sauté chicken breasts, top with spinach and cheese. Bake until chicken is cooked through and cheese is melted.",
+      "chef_name": "Lidia Bastianich",
+      "food_image": "chicken_florentine.jpg",
+      "chef_image": "lidia.jpg"
+    },
+    {
+      "id": 11,
+      "catagory": "Beef",
+      "food_details": "Osso Buco",
+      "food_complete_recipe": "Braise veal shanks with onions, carrots, celery, tomatoes, and wine until tender.",
+      "chef_name": "Mario Batali",
+      "food_image": "osso_buco.jpg",
+      "chef_image": "mario.jpg"
+    },
+    {
+      "id": 12,
+      "catagory": "Beef",
+      "food_details": "Bistecca alla Fiorentina",
+      "food_complete_recipe": "Grill T-bone steak, seasoned with salt, pepper, and olive oil. Serve rare.",
+      "chef_name": "Carla Pellegrino",
+      "food_image": "bistecca_alla_fiorentina.jpg",
+      "chef_image": "carla.jpg"
+    },
+    {
+      "id": 13,
+      "catagory": "Beef",
+      "food_details": "Beef Carpaccio",
+      "food_complete_recipe": "Thinly slice beef fillet, arrange on plate. Drizzle with olive oil, lemon juice, capers, and Parmesan shavings.",
+      "chef_name": "Massimo Bottura",
+      "food_image": "beef_carpaccio.jpg",
+      "chef_image": "massimo.jpg"
+    },
+    {
+      "id": 14,
+      "catagory": "Beef",
+      "food_details": "Bolognese Sauce",
+      "food_complete_recipe": "Sauté onions, carrots, celery, and garlic. Add ground beef, tomatoes, wine, and herbs. Simmer until thickened.",
+      "chef_name": "Marcella Hazan",
+      "food_image": "bolognese_sauce.jpg",
+      "chef_image": "marcella.jpg"
+    },
+    {
+      "id": 15,
+      "catagory": "Beef",
+      "food_details": "Beef Ragu",
+      "food_complete_recipe": "Slow cook beef with tomatoes, onions, carrots, celery, wine, and herbs until meat is tender and sauce is thick.",
+      "chef_name": "Gennaro Contaldo",
+      "food_image": "beef_ragu.jpg",
+      "chef_image": "gennaro.jpg"
+    },
+    {
+      "id": 16,
+      "catagory": "Vegetarian",
+      "food_details": "Eggplant Parmesan",
+      "food_complete_recipe": "Bread and fry eggplant slices, layer with marinara sauce and mozzarella, bake until cheese is bubbly.",
+      "chef_name": "Giada De Laurentiis",
+      "food_image": "eggplant_parmesan.jpg",
+      "chef_image": "giada.jpg"
+    },
+    {
+      "id": 17,
+      "catagory": "Vegetarian",
+      "food_details": "Pasta Primavera",
+      "food_complete_recipe": "Sauté mixed vegetables with garlic and olive oil. Toss with cooked pasta, Parmesan, and fresh herbs.",
+      "chef_name": "Lidia Bastianich",
+      "food_image": "pasta_primavera.jpg",
+      "chef_image": "lidia.jpg"
+    },
+    {
+      "id": 18,
+      "catagory": "Vegetarian",
+      "food_details": "Risotto ai Funghi",
+      "food_complete_recipe": "Sauté mushrooms with onions and garlic. Stir in Arborio rice, gradually add broth, stirring until creamy.",
+      "chef_name": "Gennaro Contaldo",
+      "food_image": "risotto_funghi.jpg",
+      "chef_image": "gennaro.jpg"
+    },
+    {
+      "id": 19,
+      "catagory": "Vegetarian",
+      "food_details": "Caprese Pizza",
+      "food_complete_recipe": "Spread pizza dough with marinara sauce, top with sliced tomatoes, fresh mozzarella, and basil leaves.",
+      "chef_name": "Mario Batali",
+      "food_image": "caprese_pizza.jpg",
+      "chef_image": "mario.jpg"
+    },
+    {
+      "id": 20,
+      "catagory": "Vegetarian",
+      "food_details": "Vegetable Lasagna",
+      "food_complete_recipe": "Layer lasagna noodles with roasted vegetables, marinara sauce, and ricotta cheese. Bake until bubbly.",
+      "chef_name": "Giada De Laurentiis",
+      "food_image": "vegetable_lasagna.jpg",
+      "chef_image": "giada.jpg"
+    },
+    {
+      "id": 21,
+      "catagory": "Dessert",
+      "food_details": "Tiramisu",
+      "food_complete_recipe": "Layer ladyfingers soaked in coffee and rum with mascarpone cheese mixture. Dust with cocoa powder.",
+      "chef_name": "Carla Pellegrino",
+      "food_image": "tiramisu.jpg",
+      "chef_image": "carla.jpg"
+    },
+    {
+      "id": 22,
+      "catagory": "Dessert",
+      "food_details": "Cannoli",
+      "food_complete_recipe": "Pipe sweetened ricotta cheese mixture into cannoli shells. Dip ends in chopped pistachios or chocolate chips.",
+      "chef_name": "Lidia Bastianich",
+      "food_image": "cannoli.jpg",
+      "chef_image": "lidia.jpg"
+    },
+    {
+      "id": 23,
+      "catagory": "Dessert",
+      "food_details": "Panna Cotta",
+      "food_complete_recipe": "Bloom gelatin in milk, heat with cream and sugar until dissolved. Pour into molds, chill until set.",
+      "chef_name": "Giada De Laurentiis",
+      "food_image": "panna_cotta.jpg",
+      "chef_image": "giada.jpg"
+    },
+    {
+      "id": 24,
+      "catagory": "Dessert",
+      "food_details": "Gelato",
+      "food_complete_recipe": "Mix milk, cream, sugar, and flavorings. Churn in an ice cream maker until thick and creamy.",
+      "chef_name": "Mario Batali",
+      "food_image": "gelato.jpg",
+      "chef_image": "mario.jpg"
+    },
+    {
+      "id": 25,
+      "catagory": "Dessert",
+      "food_details": "Zeppole",
+      "food_complete_recipe": "Fry balls of dough until golden brown. Dust with powdered sugar and serve warm.",
+      "chef_name": "Lidia Bastianich",
+      "food_image": "zeppole.jpg",
+      "chef_image": "lidia.jpg"
+    }
+  ]
+  
