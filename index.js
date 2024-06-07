@@ -11,12 +11,23 @@ app.get("/food", (req, res) => {
   res.send(foodData);
 });
 
+app.get("/food/:category", (req, res) => {
+  const category = req.params.category;
+  const categoryItems = foodData.filter((item) => item.category === category);
+  res.send(categoryItems);
+});
 
-app.get("/food/:category", (req,res)=>{
-    const category = req.params.category;
-    const categoryItems = foodData.filter((item) => item.category === category);
-    res.send(categoryItems);
-
+app.get("/food/:category/:id", (req, res) => {
+  const id = req.params.id;
+  const category = req.params.category;
+  const categoryItems = foodData.filter((item) => item.category === category);
+  const selectedFood = categoryItems.find((c) => c.id == id);
+  
+  if (selectedFood) {
+    res.send(selectedFood);
+  } else {
+    res.status(404).send({ message: "Food item not found" });
+  }
 });
 
 app.get("/chef", (req, res) => {
