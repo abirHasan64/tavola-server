@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "chef_name": "Giada De Laurentiis",
     "description": "Giada De Laurentiis is renowned for her emphasis on fresh, high-quality ingredients and elegant, simple presentations. Known for her approachable Italian cuisine, Giada combines her classical training with a passion for family-inspired dishes, making her recipes both authentic and accessible. Her cooking style reflects a perfect balance between traditional flavors and contemporary techniques, appealing to both novice and experienced cooks.",
     "chef_image": "https://i.ibb.co/Lpg26xB/Chef-Giada-De-Laurentiis.webp",
@@ -43,6 +44,7 @@
     ]
   },
   {
+    "id":2,
     "chef_name": "Mario Batali",
     "description": "Mario Batali, celebrated for his bold use of seasonal produce and layered flavors, brings a vibrant approach to Italian cooking. His culinary philosophy revolves around experimenting with textures to add depth to dishes. Batali’s recipes showcase his expertise in combining robust ingredients with inventive techniques, creating meals that are both sophisticated and comforting.",
     "chef_image": "https://i.ibb.co/cvjjHSh/mario-batali.jpg",
@@ -79,6 +81,7 @@
     ]
   },
   {
+    "id":3,
     "chef_name": "Lidia Bastianich",
     "description": "Lidia Bastianich is a master of homemade pasta and slow cooking, enriching her dishes with garlic and olive oil. With a deep respect for Italian culinary traditions, Lidia’s recipes reflect her dedication to family-style cooking and authentic flavors. Her expertise in crafting hearty, flavorful meals makes her a beloved figure in the world of Italian cuisine.",
     "chef_image": "https://i.ibb.co/qkLWF67/lidia-bastianich.webp",
@@ -122,6 +125,7 @@
     ]
   },
   {
+    "id":4,
     "chef_name": "Massimo Bottura",
     "description": "Massimo Bottura is known for his innovative and artistic approach to Italian cuisine. He elevates dishes with thoughtful plating, daring flavor combinations, and creative reinterpretations of traditional recipes. Bottura’s cooking style pushes the boundaries of conventional Italian food, making each dish a work of art that delights both the eyes and the palate.",
     "chef_image": "https://i.ibb.co/GRFnjNz/Massimo-Bottura.jpg",
@@ -144,6 +148,7 @@
     ]
   },
   {
+    "id":5,
     "chef_name": "Gennaro Contaldo",
     "description": "Gennaro Contaldo emphasizes the harmony of balanced flavors, the liberal use of fresh herbs, and the joy of the cooking process. His approach to Italian cuisine is deeply rooted in tradition, yet he brings a personal touch to every dish. Gennaro’s recipes are a celebration of Italy’s rich culinary heritage, marked by simplicity and robust, authentic tastes.",
     "chef_image": "https://i.ibb.co/Fhc14gR/gennaro-contaldo.webp",
@@ -173,6 +178,7 @@
     ]
   },
   {
+    "id":6,
     "chef_name": "Carla Pellegrino",
     "description": "Carla Pellegrino’s cooking is infused with family traditions, meticulous seasoning, and a patient, caring approach. Her recipes reflect a blend of classic Italian techniques and personal heritage, resulting in dishes that are both comforting and flavorful. Carla’s attention to detail and dedication to preserving culinary customs make her a distinguished figure in Italian cuisine.",
     "tricks": "Infuse recipes with family traditions, season meticulously, and cook with patience and care.",
@@ -202,6 +208,7 @@
     ]
   },
   {
+    "id":7,
     "chef_name": "Marcella Hazan",
     "description": "Marcella Hazan is revered for her ability to simplify Italian cooking with high-quality ingredients and a meticulous approach to seasoning. Combining butter and olive oil in her recipes, Marcella’s techniques bring out the best in each component. Her culinary philosophy focuses on enhancing natural flavors, making her a guiding light for those seeking authentic Italian dishes.",
     "chef_image": "https://i.ibb.co/jh7vW6z/marcella-hazan.jpg",
